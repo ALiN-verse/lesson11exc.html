@@ -1,0 +1,21 @@
+ .header{
+    height: 55px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+ }
+ .left-sec{
+    background-color: aquamarine;
+    width: 200px;
+ }
+ .mid-sec{
+    background-color: lightseagreen;
+    flex: 1;
+    margin-left: 90px;
+    margin-right: 35px;
+    max-width: 600px;
+ }
+ .right-sec{
+    background-color: aquamarine;
+    width: 200px;
+ }
